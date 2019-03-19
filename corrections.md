@@ -33,7 +33,7 @@ m09 V => V\\\ \
 m09.2, 10.2, 11.2 vi7 => vi43\
 m12.2, 21.2 viio7/vi => #viio7/vi\
 m14.2, 23.2 I => I\\\ \
-27.2 .bVI.V => #V.V\
-29.2 .bIII.V => #II.V\
+m27.2 .bVI.V => #V.V\
+m29.2 .bIII.V => #II.V\
 m33-34 {.bII VII VII I}.V2(4) => I.IV(+9)/{#I VII VI V}\
 rest analog
