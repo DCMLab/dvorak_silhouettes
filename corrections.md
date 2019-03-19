@@ -35,5 +35,4 @@ m12.2, 21.2 viio7/vi => #viio7/vi
 m14.2, 23.2 I => I\\\
 27.2 .bVI.V => #V.V
 29.2 .bIII.V => #II.V
-m33-34 {.bII VII VII I}.V2(4) => {I.#I VII VI}/IV(+9)
-
+m33-34 {.bII VII VII I}.V2(4) => I.IV(+9)/{#I VII VI}
