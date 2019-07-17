@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -744,7 +744,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>III.IV</name>
+          <name>IV/III</name>
           </Harmony>
         <Beam id="9">
           <StemDirection>down</StemDirection>
@@ -803,7 +803,7 @@
         </Measure>
       <Measure number="7">
         <Harmony>
-          <name>V(64)</name>
+          <name>V(64)/III</name>
           </Harmony>
         <Beam id="10">
           <StemDirection>down</StemDirection>
@@ -834,7 +834,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/III</name>
           </Harmony>
         <Beam id="11">
           <StemDirection>down</StemDirection>
@@ -880,7 +880,7 @@
         </Measure>
       <Measure number="8">
         <Harmony>
-          <name>I\\</name>
+          <name>I/III\\</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -901,7 +901,7 @@
         </Measure>
       <Measure number="9">
         <Harmony>
-          <name>i.i[i</name>
+          <name>i[i</name>
           </Harmony>
         <Beam id="12">
           <StemDirection>down</StemDirection>

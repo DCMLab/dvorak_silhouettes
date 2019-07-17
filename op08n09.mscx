@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
@@ -199,30 +200,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -292,7 +269,8 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Harmony>
-          <name>.B.VI.iv</name>
+          <name>.B.ii</name>
+          <pos x="-0.253992" y="-7"/>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -318,7 +296,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>ii.V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -349,7 +327,7 @@
         </Measure>
       <Measure number="2">
         <Harmony>
-          <name>I</name>
+          <name>V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -379,7 +357,7 @@
         </Measure>
       <Measure number="3">
         <Harmony>
-          <name>iv</name>
+          <name>i</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -401,7 +379,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -432,7 +410,7 @@
         </Measure>
       <Measure number="4">
         <Harmony>
-          <name>I</name>
+          <name>V\\</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -462,7 +440,7 @@
         </Measure>
       <Measure number="5">
         <Harmony>
-          <name>V.IV</name>
+          <name>I.I</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -488,7 +466,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -519,7 +497,7 @@
         </Measure>
       <Measure number="6">
         <Harmony>
-          <name>I</name>
+          <name>V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -546,7 +524,7 @@
         </Measure>
       <Measure number="7">
         <Harmony>
-          <name>IV</name>
+          <name>I</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -568,7 +546,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -599,7 +577,7 @@
         </Measure>
       <Measure number="8">
         <Harmony>
-          <name>I\\</name>
+          <name>V\\</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -630,7 +608,7 @@
         </Measure>
       <Measure number="9">
         <Harmony>
-          <name>I.I[I</name>
+          <name>I[I</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -2461,7 +2439,8 @@
         </Measure>
       <Measure number="45">
         <Harmony>
-          <name>VI.iv</name>
+          <name>ii.i</name>
+          <pos x="-0.253992" y="-7"/>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2483,7 +2462,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2514,7 +2493,7 @@
         </Measure>
       <Measure number="46">
         <Harmony>
-          <name>I</name>
+          <name>V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2544,7 +2523,7 @@
         </Measure>
       <Measure number="47">
         <Harmony>
-          <name>iv</name>
+          <name>i</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2566,7 +2545,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2597,7 +2576,7 @@
         </Measure>
       <Measure number="48">
         <Harmony>
-          <name>I</name>
+          <name>V\\</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2627,7 +2606,7 @@
         </Measure>
       <Measure number="49">
         <Harmony>
-          <name>V.IV</name>
+          <name>I.I</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2653,7 +2632,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2684,7 +2663,7 @@
         </Measure>
       <Measure number="50">
         <Harmony>
-          <name>I</name>
+          <name>V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2711,7 +2690,7 @@
         </Measure>
       <Measure number="51">
         <Harmony>
-          <name>IV</name>
+          <name>I</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2733,7 +2712,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2764,7 +2743,7 @@
         </Measure>
       <Measure number="52">
         <Harmony>
-          <name>I</name>
+          <name>V\\</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2791,7 +2770,7 @@
         </Measure>
       <Measure number="53">
         <Harmony>
-          <name>IV.IV</name>
+          <name>.bVII.I</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2820,7 +2799,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2848,7 +2827,7 @@
         </Measure>
       <Measure number="54">
         <Harmony>
-          <name>I</name>
+          <name>V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2875,7 +2854,7 @@
         </Measure>
       <Measure number="55">
         <Harmony>
-          <name>.bIII.IV</name>
+          <name>.bVI.I</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2903,7 +2882,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>V7</name>
+          <name>V7/V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>
@@ -2934,7 +2913,7 @@
         </Measure>
       <Measure number="56">
         <Harmony>
-          <name>I</name>
+          <name>V</name>
           </Harmony>
         <Rest>
           <durationType>eighth</durationType>

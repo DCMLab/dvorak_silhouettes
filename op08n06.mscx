@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
   <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programRevision>3543170</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -846,7 +846,7 @@
         </Measure>
       <Measure number="8">
         <Harmony>
-          <name>I</name>
+          <name>I\\</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -1808,7 +1808,7 @@
         </Measure>
       <Measure number="18">
         <Harmony>
-          <name>I[I</name>
+          <name>I[I\\</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -1998,7 +1998,7 @@
         </Measure>
       <Measure number="20">
         <Harmony>
-          <name>I]\\</name>
+          <name>I]</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -2819,6 +2819,9 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I(+#8)</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>up</StemDirection>
@@ -3084,7 +3087,7 @@
         </Measure>
       <Measure number="31">
         <Harmony>
-          <name>I]</name>
+          <name>I]\\</name>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -3311,7 +3314,7 @@
           <transposingClefType>F</transposingClefType>
           </Clef>
         <Harmony>
-          <name>.bvii6</name>
+          <name>ii%43</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -3421,7 +3424,7 @@
         </Measure>
       <Measure number="34">
         <Harmony>
-          <name>.bvii6</name>
+          <name>ii%43</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -3552,7 +3555,7 @@
         </Measure>
       <Measure number="36">
         <Harmony>
-          <name>.bvii6</name>
+          <name>ii%43</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -4552,7 +4555,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio7(+2)</name>
+          <name>viio7(9)</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -4723,7 +4726,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio2(+2)</name>
+          <name>viio2(9)</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -5396,7 +5399,7 @@
             </Note>
           </Chord>
         <Harmony>
-          <name>viio43(+2)</name>
+          <name>viio43(9)</name>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -5423,6 +5426,7 @@
           </Chord>
         <Harmony>
           <name>viio43</name>
+          <pos x="0" y="-10.3188"/>
           </Harmony>
         <Chord>
           <durationType>16th</durationType>
