@@ -1,13 +1,13 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	musescore
-MS3/op08n01.mscx	op08n01	.mscx	6aea31b99c6bb8ac34ffbcf92fa5b3fc	75	4, -5, 4	6/8	3.4.2
-MS3/op08n02.mscx	op08n02	.mscx	4a67f98349daab2f1fbc5a303fa70d07	67	-5	4/4	3.4.2
-MS3/op08n03.mscx	op08n03	.mscx	3eda03d5bce715a366da27a919868dc0	246	-5	2/4	3.4.2
-MS3/op08n04.mscx	op08n04	.mscx	010fdd2206a99ae10ce6e37c8cf90fa0	138	3	3/4	3.4.2
-MS3/op08n05.mscx	op08n05	.mscx	c4c3d455a740deff0932bed0685955f9	137	3	3/4	3.4.2
-MS3/op08n06.mscx	op08n06	.mscx	51d8651841099b70b16271e55466fac0	114	-2	6/8	3.4.2
-MS3/op08n07.mscx	op08n07	.mscx	ed23f44e44f0b0dec8a05604f5bdde6d	165	2	6/8	3.4.2
-MS3/op08n08.mscx	op08n08	.mscx	379b0499e1a00302c539025dd22c0a85	100	2	2/4	3.4.2
-MS3/op08n09.mscx	op08n09	.mscx	4878bd2264504de359764904e7ed2493	97	5	2/4	3.4.2
-MS3/op08n10.mscx	op08n10	.mscx	5cb542d0c943744300bc45048d83eace	103	1	6/8	3.4.2
-MS3/op08n11.mscx	op08n11	.mscx	20c4e685289cb95c7b8628968d0c1390	88	3	3/4	3.4.2
-MS3/op08n12.mscx	op08n12	.mscx	442e5189fd647d9d84651f1eb437c08d	204	4, -4, 4	6/8	3.4.2
+path	filename	extension	md5	label_count	KeySig	TimeSig	musescore	composed_start	composed_end	annotator	reviewer
+MS3/op08n01.mscx	op08n01	.mscx	6aea31b99c6bb8ac34ffbcf92fa5b3fc	75	4, -5, 4	6/8	3.4.2	1870	1879	Daniel Grote	Johannes Hentschel
+MS3/op08n02.mscx	op08n02	.mscx	4a67f98349daab2f1fbc5a303fa70d07	67	-5	4/4	3.4.2	1870	1879	Daniel Grote	Johannes Hentschel
+MS3/op08n03.mscx	op08n03	.mscx	3eda03d5bce715a366da27a919868dc0	246	-5	2/4	3.4.2	1870	1879	Daniel Grote	Johannes Hentschel
+MS3/op08n04.mscx	op08n04	.mscx	010fdd2206a99ae10ce6e37c8cf90fa0	138	3	3/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n05.mscx	op08n05	.mscx	c4c3d455a740deff0932bed0685955f9	137	3	3/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n06.mscx	op08n06	.mscx	51d8651841099b70b16271e55466fac0	114	-2	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n07.mscx	op08n07	.mscx	ed23f44e44f0b0dec8a05604f5bdde6d	165	2	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n08.mscx	op08n08	.mscx	379b0499e1a00302c539025dd22c0a85	100	2	2/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n09.mscx	op08n09	.mscx	4878bd2264504de359764904e7ed2493	97	5	2/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n10.mscx	op08n10	.mscx	5cb542d0c943744300bc45048d83eace	103	1	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n11.mscx	op08n11	.mscx	20c4e685289cb95c7b8628968d0c1390	88	3	3/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
+MS3/op08n12.mscx	op08n12	.mscx	442e5189fd647d9d84651f1eb437c08d	204	4, -4, 4	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel
