@@ -1,0 +1,138 @@
+mc	mn	onset	label	alt_label	globalkey	localkey	pedal	chord	numeral	form	figbass	changes	relativeroot	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
+1	1	1/2	.f#.V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+2	2	0	i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+2	2	1/2	V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+3	3	0	i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+3	3	1/2	V/III		f#	i		V/III	V				III		M	1	1	-2, 2, -1		-2	-2
+4	4	0	I/III		f#	i		I/III	I				III		M	1	1	-3, 1, -2		-3	-3
+4	4	1/2	V43(4)/III		f#	i		V43(4)/III	V		43	4	III		Mm7	1	1	-1, -4, -2, -3		-2	-1
+5	5	0	I6/III		f#	i		I6/III	I		6		III		M	1	1	1, -2, -3		-3	1
+5	5	1/2	ii6/III		f#	i		ii6/III	ii		6		III		m	1	1	-4, 0, -1		-1	-4
+6	6	0	V(64)/III		f#	i		V(64)/III	V			64	III		M	1	1	-2, -3, 1		-2	-2
+6	6	1/2	V7/III		f#	i		V7/III	V		7		III		Mm7	1	1	-2, 2, -1, -4		-2	-2
+7	7	0	i6		f#	i		i6	i		6				m	1	1	-3, 1, 0		0	-3
+7	7	1/2	iio6		f#	i		iio6	ii	o	6				o	1	1	-1, -4, 2		2	-1
+8	8	0	V(64)		f#	i		V(64)	V			64			M	1	1	1, 0, -3		1	1
+8	8	1/2	V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+9	9	0	i\\		f#	i		i	i					\\	m	1	1	0, -3, 1		0	0
+9	9	1/2	V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+10	10	0	i6		f#	i		i6	i		6				m	1	1	-3, 1, 0		0	-3
+10	10	1/2	V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+11	11	0	i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+11	11	1/2	ii%7		f#	i		ii%7	ii	%	7				%7	1	1	2, 1, 8, 0		2	2
+12	12	0	i6		f#	i		i6	i		6				m	1	1	-3, 1, 0		0	-3
+12	12	1/2	iv		f#	i		iv	iv						m	1	1	-1, -4, 0		-1	-1
+13	13	0	i43		f#	i		i43	i		43				mm7	1	1	1, -2, 0, -3		0	1
+13	13	1/2	iv		f#	i		iv	iv						m	1	1	-1, -4, 0		-1	-1
+14	14	0	i6		f#	i		i6	i		6				m	1	1	-3, 1, 0		0	-3
+14	14	1/2	ii%7		f#	i		ii%7	ii	%	7				%7	1	1	2, 1, 8, 0		2	2
+15	15	0	i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+15	15	1/2	ii%65		f#	i		ii%65	ii	%	65				%7	1	1	1, 8, 0, 2		2	1
+16	16	0	V(64)		f#	i		V(64)	V			64			M	1	1	1, 0, -3		1	1
+16	16	1/2	V7		f#	i		V7	V		7				Mm7	1	1	1, 5, 2, -1		1	1
+17	17	0	i\\		f#	i		i	i					\\	m	1	1	0, -3, 1		0	0
+17	17	1/2	III.V		f#	III		V	V						M	1	0	1, 5, 2		1	1
+18	18	0	I		f#	III		I	I						M	1	0	0, 4, 1		0	0
+18	18	1/2	V		f#	III		V	V						M	1	0	1, 5, 2		1	1
+19	19	0	I		f#	III		I	I						M	1	0	0, 4, 1		0	0
+19	19	1/2	viio6		f#	III		viio6	vii	o	6				o	1	0	2, -1, 5		5	2
+20	20	0	I6		f#	III		I6	I		6				M	1	0	4, 1, 0		0	4
+20	20	1/2	IV		f#	III		IV	IV						M	1	0	-1, 3, 0		-1	-1
+21	21	0	V		f#	III		V	V						M	1	0	1, 5, 2		1	1
+21	21	1/2	IV		f#	III		IV	IV						M	1	0	-1, 3, 0		-1	-1
+22	22	0	I6		f#	III		I6	I		6				M	1	0	4, 1, 0		0	4
+22	22	1/2	viio6		f#	III		viio6	vii	o	6				o	1	0	2, -1, 5		5	2
+23	23	0	I		f#	III		I	I						M	1	0	0, 4, 1		0	0
+23	23	1/2	#viio6/vi		f#	III		#viio6/vi	#vii	o	6		vi		o	1	0	5, 2, 8		8	5
+24	24	0	i/vi		f#	III		i/vi	i				vi		m	1	0	3, 0, 4		3	3
+24	24	1/2	V/vi		f#	III		V/vi	V				vi		M	1	0	4, 8, 5		4	4
+25	25	0	i/vi\\		f#	III		i/vi	i				vi	\\	m	1	0	3, 0, 4		3	3
+25	25	1/2	V2		f#	III		V2	V		2				Mm7	1	0	-1, 1, 5, 2		1	-1
+26	26	0	I6		f#	III		I6	I		6				M	1	0	4, 1, 0		0	4
+26	26	1/2	V		f#	III		V	V						M	1	0	1, 5, 2		1	1
+27	27	0	I		f#	III		I	I						M	1	0	0, 4, 1		0	0
+27	27	1/2	ii7		f#	III		ii7	ii		7				mm7	1	0	2, -1, 3, 0		2	2
+28	28	0	I6		f#	III		I6	I		6				M	1	0	4, 1, 0		0	4
+28	28	1/2	IV		f#	III		IV	IV						M	1	0	-1, 3, 0		-1	-1
+29	29	0	IM43		f#	III		IM43	I	M	43				MM7	1	0	1, 5, 0, 4		0	1
+29	29	1/2	IV		f#	III		IV	IV						M	1	0	-1, 3, 0		-1	-1
+30	30	0	I6		f#	III		I6	I		6				M	1	0	4, 1, 0		0	4
+30	30	1/2	ii7		f#	III		ii7	ii		7				mm7	1	0	2, -1, 3, 0		2	2
+31	31	0	I		f#	III		I	I						M	1	0	0, 4, 1		0	0
+31	31	1/2	ii65		f#	III		ii65	ii		65				mm7	1	0	-1, 3, 0, 2		2	-1
+32	32	0	V(64)/bi		f#	III		V(64)/bi	V			64	bi		M	1	0	-6, -7, -10		-6	-6
+32	32	1/2	ii%65/vi		f#	III		ii%65/vi	ii	%	65		vi		%7	1	0	4, 11, 3, 5		5	4
+33	33	0	i/vi\\		f#	III		i/vi	i				vi	\\	m	1	0	3, 0, 4		3	3
+33	33	1/2	V.V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+34	34	0	I		f#	V		I	I						M	1	0	0, 4, 1		0	0
+35	35	0	I6		f#	V		I6	I		6				M	1	0	4, 1, 0		0	4
+35	35	1/2	V7		f#	V		V7	V		7				Mm7	1	0	1, 5, 2, -1		1	1
+36	36	0	V65		f#	V		V65	V		65				Mm7	1	0	5, 2, -1, 1		1	5
+36	36	1/2	I		f#	V		I	I						M	1	0	0, 4, 1		0	0
+38	38	0	V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+38	38	1/2	I		f#	V		I	I						M	1	0	0, 4, 1		0	0
+39	39	0	V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+39	39	1/2	I6		f#	V		I6	I		6				M	1	0	4, 1, 0		0	4
+40	40	0	V\\		f#	V		V	V					\\	M	1	0	1, 5, 2		1	1
+41	41	1/2	V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+42	42	0	I6		f#	V		I6	I		6				M	1	0	4, 1, 0		0	4
+42	42	1/2	viio6		f#	V		viio6	vii	o	6				o	1	0	2, -1, 5		5	2
+43	43	0	I		f#	V		I	I						M	1	0	0, 4, 1		0	0
+43	43	1/2	V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+44	44	1/2	I6		f#	V		I6	I		6				M	1	0	4, 1, 0		0	4
+46	46	0	V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+46	46	1/2	I		f#	V		I	I						M	1	0	0, 4, 1		0	0
+47	47	0	V		f#	V		V	V						M	1	0	1, 5, 2		1	1
+47	47	1/2	I6		f#	V		I6	I		6				M	1	0	4, 1, 0		0	4
+48	48	0	V\\		f#	V		V	V					\\	M	1	0	1, 5, 2		1	1
+49	49	1/2	i.V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+50	50	0	i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+50	50	1/2	ii%2		f#	i		ii%2	ii	%	2				%7	1	1	0, 2, 1, 8		2	0
+51	51	0	i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+51	51	1/2	V/III		f#	i		V/III	V				III		M	1	1	-2, 2, -1		-2	-2
+52	52	0	I/III		f#	i		I/III	I				III		M	1	1	-3, 1, -2		-3	-3
+52	52	1/2	V43(4)/III		f#	i		V43(4)/III	V		43	4	III		Mm7	1	1	-1, -4, -2, -3		-2	-1
+53	53	0	I6/III		f#	i		I6/III	I		6		III		M	1	1	1, -2, -3		-3	1
+53	53	1/2	ii6/III		f#	i		ii6/III	ii		6		III		m	1	1	-4, 0, -1		-1	-4
+54	54	0	V(64)/III		f#	i		V(64)/III	V			64	III		M	1	1	-2, -3, 1		-2	-2
+54	54	1/2	V7/III		f#	i		V7/III	V		7		III		Mm7	1	1	-2, 2, -1, -4		-2	-2
+55	55	0	I/III		f#	i		I/III	I				III		M	1	1	-3, 1, -2		-3	-3
+55	55	1/2	iio6		f#	i		iio6	ii	o	6				o	1	1	-1, -4, 2		2	-1
+56	56	0	V(64)		f#	i		V(64)	V			64			M	1	1	1, 0, -3		1	1
+56	56	1/2	V7		f#	i		V7	V		7				Mm7	1	1	1, 5, 2, -1		1	1
+57	57	0	I.I\\		f#	I		I	I					\\	M	1	0	0, 4, 1		0	0
+57	57	1/2	V		f#	I		V	V						M	1	0	1, 5, 2		1	1
+58	58	0	I6		f#	I		I6	I		6				M	1	0	4, 1, 0		0	4
+58	58	1/2	V		f#	I		V	V						M	1	0	1, 5, 2		1	1
+59	59	0	I		f#	I		I	I						M	1	0	0, 4, 1		0	0
+59	59	1/2	ii7		f#	I		ii7	ii		7				mm7	1	0	2, -1, 3, 0		2	2
+60	60	0	I6		f#	I		I6	I		6				M	1	0	4, 1, 0		0	4
+60	60	1/2	IV		f#	I		IV	IV						M	1	0	-1, 3, 0		-1	-1
+61	61	0	V65/IV		f#	I		V65/IV	V		65		IV		Mm7	1	0	4, 1, -2, 0		0	4
+61	61	1/2	IV		f#	I		IV	IV						M	1	0	-1, 3, 0		-1	-1
+62	62	0	V2/IV		f#	I		V2/IV	V		2		IV		Mm7	1	0	-2, 0, 4, 1		0	-2
+62	62	1/2	iv6		f#	I		iv6	iv		6				m	1	0	-4, 0, -1		-1	-4
+63	63	0	V64/iv	V(64)	f#	I		V64/iv	V		64		iv		M	1	0	1, 0, 4		0	1
+63	63	1/2	iv6		f#	I		iv6	iv		6				m	1	0	-4, 0, -1		-1	-4
+64	64	0	V6/iv	I6	f#	I		V6/iv	V		6		iv		M	1	0	4, 1, 0		0	4
+64	64	1/2	IV		f#	I		IV	IV						M	1	0	-1, 3, 0		-1	-1
+65	65	0	V64/IV	V(64)	f#	I		V64/IV	V		64		IV		M	1	0	1, 0, 4		0	1
+65	65	1/2	ii%43		f#	I		ii%43	ii	%	43				%7	1	0	8, 0, 2, 1		2	8
+66	66	0	V2/iv		f#	I		V2/iv	V		2		iv		Mm7	1	0	-2, 0, 4, 1		0	-2
+66	66	1/2	IV6		f#	I		IV6	IV		6				M	1	0	3, 0, -1		-1	3
+67	67	0	V64/IV	V(64)	f#	I		V64/IV	V		64		IV		M	1	0	1, 0, 4		0	1
+67	67	1/2	iv		f#	I		iv	iv						m	1	0	-1, -4, 0		-1	-1
+68	68	0	V6/iv	I6	f#	I		V6/iv	V		6		iv		M	1	0	4, 1, 0		0	4
+68	68	1/2	iv		f#	I		iv	iv						m	1	0	-1, -4, 0		-1	-1
+69	69	0	V64/iv	V(64)	f#	I		V64/iv	V		64		iv		M	1	0	1, 0, 4		0	1
+69	69	1/2	ii%43		f#	I		ii%43	ii	%	43				%7	1	0	8, 0, 2, 1		2	8
+70	70	0	i.i		f#	i		i	i						m	1	1	0, -3, 1		0	0
+72	72	0	V(64)/III		f#	i		V(64)/III	V			64	III		M	1	1	-2, -3, 1		-2	-2
+74	74	1/2	IV/III		f#	i		IV/III	IV				III		M	1	1	-4, 0, -3		-4	-4
+76	76	1/2	ii%43		f#	i		ii%43	ii	%	43				%7	1	1	8, 0, 2, 1		2	8
+77	77	0	V(6)		f#	i		V(6)	V			6			M	1	1	1, 5, -3		1	1
+77	77	1/2	V		f#	i		V	V						M	1	1	1, 5, 2		1	1
+79	79	0	I\\		f#	i		I	I					\\	M	1	1	0, 4, 1		0	0
+80	80	1/2	I(#7)		f#	i		I(#7)	I			#7			M	1	1	0, 4, 1	5	0	0
+81	81	1/4	I(9)		f#	i		I(9)	I			9			M	1	1	0, 4, 1	2	0	0
+81	81	1/2	I		f#	i		I	I						M	1	1	0, 4, 1		0	0
