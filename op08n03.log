@@ -1,3 +1,10 @@
 Attempting to parse op08n03.mscx
 Done parsing op08n03.mscx
 
+The following chords could not be parsed:
+     mc  mn onset  label
+ix                      
+1     1   1   1/4  .Ger6
+237  67  67   1/4  .Ger6
+Failed to expand labels due to syntactic errors:
+repl_spec() missing 1 required positional argument: 'special'
