@@ -36,4 +36,4 @@ mc	mn	keysig	timesig	act_dur	offset	voices	repeats	volta	barline	numbering_offse
 35	35	2	6/8	3/4	0	3						36
 36	36	2	6/8	3/4	0	3						37
 37	37	2	6/8	3/4	0	2						38
-38	38	2	6/8	3/4	0	2	lastMeasure		end			
+38	38	2	6/8	3/4	0	2	lastMeasure		end			-1
