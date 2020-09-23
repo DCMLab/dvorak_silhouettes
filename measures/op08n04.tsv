@@ -34,7 +34,7 @@ mc	mn	keysig	timesig	act_dur	offset	repeats	volta	barline	numbering_offset	dont_
 33	33	3	3/4	3/4	0						34
 34	34	3	3/4	3/4	0						35
 35	35	3	3/4	3/4	0						36
-36	36	3	3/4	3/4	0						37
+36	36	3	3/4	3/4	0			double			37
 37	37	3	3/4	3/4	0						38
 38	38	3	3/4	3/4	0						39
 39	39	3	3/4	3/4	0						40
