@@ -1,13 +1,25 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	musescore	composed_start	composed_end	annotator	reviewer	score integrity	pdf
-MS3/op08n01.mscx	op08n01	.mscx	6aea31b99c6bb8ac34ffbcf92fa5b3fc	75	4, -5, 4	6/8	3.4.2	1870	1879	Daniel Grote	Johannes Hentschel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n02.mscx	op08n02	.mscx	4a67f98349daab2f1fbc5a303fa70d07	67	-5	4/4	3.4.2	1870	1879	Daniel Grote	Johannes Hentschel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n03.mscx	op08n03	.mscx	3eda03d5bce715a366da27a919868dc0	246	-5	2/4	3.4.2	1870	1879	Daniel Grote	Johannes Hentschel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n04.mscx	op08n04	.mscx	010fdd2206a99ae10ce6e37c8cf90fa0	138	3	3/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n05.mscx	op08n05	.mscx	c4c3d455a740deff0932bed0685955f9	137	3	3/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n06.mscx	op08n06	.mscx	51d8651841099b70b16271e55466fac0	114	-2	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n07.mscx	op08n07	.mscx	ed23f44e44f0b0dec8a05604f5bdde6d	165	2	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n08.mscx	op08n08	.mscx	379b0499e1a00302c539025dd22c0a85	100	2	2/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n09.mscx	op08n09	.mscx	4878bd2264504de359764904e7ed2493	97	5	2/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n10.mscx	op08n10	.mscx	5cb542d0c943744300bc45048d83eace	103	1	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n11.mscx	op08n11	.mscx	20c4e685289cb95c7b8628968d0c1390	88	3	3/4	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
-MS3/op08n12.mscx	op08n12	.mscx	442e5189fd647d9d84651f1eb437c08d	204	4, -4, 4	6/8	3.4.2	1870	1879	Adrian Nagel	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/59514
+		last_mc	last_mn	KeySig	TimeSig	label_count	annotated_key	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	platform	source	translator	musescore	ambitus	annotator	composed_end	composed_start	extension	md5	originalFormat	pdf	reviewer	score integrity	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
+MS3	op08n01	54	52	1: 4, 7: -5, 49: 4	1: 6/8	75	c#										2018-05-26	Microsoft Windows			3.0.5	32-92 (G#1-Ab6)						xml				56-92 (G#3-Ab6)	Piano	32-68 (G#1-G#4)	Piano
+MS3	op08n02	15	15	1: -5	1: 4/4	67	Db										2019-03-17	Microsoft Windows			3.0.5	25-82 (Db1-Bb5)						xml				48-82 (C3-Bb5)	Piano	25-66 (Db1-Gb4)	Piano
+MS3	op08n03	72	72	1: -5	1: 2/4	246	Db										2019-03-17	Microsoft Windows			3.0.5	32-85 (Ab1-Db6)						xml				61-85 (Db4-Db6)	Piano	32-70 (Ab1-Bb4)	Piano
+MS3	op08n04	59	59	1: 3	1: 3/4	138	f#										2019-04-04	Apple Macintosh			3.0.5	30-91 (F#1-G6)						xml				56-91 (G#3-G6)	Piano	30-69 (F#1-A4)	Piano
+MS3	op08n05	81	80	1: 3	1: 3/4	137	f#										2019-04-04	Apple Macintosh			3.0.5	30-82 (F#1-A#5)						xml				53-80 (E#3-G#5)	Piano	30-82 (F#1-A#5)	Piano
+MS3	op08n06	60	60	1: -2	1: 6/8	114	Bb										2019-04-04	Apple Macintosh			3.0.5	27-96 (Eb1-C7)						xml				50-96 (D3-C7)	Piano	27-71 (Eb1-B4)	Piano
+MS3	op08n07	38	38	1: 2	1: 6/8	165	D										2019-04-04	Apple Macintosh			3.0.5	26-95 (D1-B6)						xml				47-95 (B2-B6)	Piano	26-83 (D1-B5)	Piano
+MS3	op08n08	57	57	1: 2	1: 2/4	100	b										2019-04-04	Apple Macintosh			3.0.5	30-90 (F#1-F#6)						xml				49-90 (C#3-F#6)	Piano	30-76 (F#1-E5)	Piano
+MS3	op08n09	61	61	1: 5	1: 2/4	97	B										2019-04-04	Apple Macintosh			3.0.5	23-78 (B0-F#5)						xml				51-78 (D#3-F#5)	Piano	23-63 (B0-D#4)	Piano
+MS3	op08n10	58	58	1: 1	1: 6/8	103	G										2019-04-04	Apple Macintosh			3.0.5	35-93 (B1-A6)						xml				51-93 (D#3-A6)	Piano	35-81 (B1-A5)	Piano
+MS3	op08n11	44	44	1: 3	1: 3/4	88	A										2019-04-04	Apple Macintosh			3.0.5	33-97 (A1-C#7)						xml				64-97 (E4-C#7)	Piano	33-81 (A1-A5)	Piano
+MS3	op08n12	79	78	1: 4, 33: -4, 48: 4	1: 6/8	204	c#										2019-04-04	Apple Macintosh			3.0.5	31-96 (F##1-B#6)						xml				44-96 (G#2-B#6)	Piano	31-80 (F##1-G#5)	Piano
+MS3/op08n01.mscx	op08n01			4, -5, 4	6/8	75															3.4.2		Daniel Grote	1879	1870	.mscx	6aea31b99c6bb8ac34ffbcf92fa5b3fc		https://imslp.org/wiki/Special:ReverseLookup/59514	Johannes Hentschel	Tom Schreyer				
+MS3/op08n02.mscx	op08n02			-5	4/4	67															3.4.2		Daniel Grote	1879	1870	.mscx	4a67f98349daab2f1fbc5a303fa70d07		https://imslp.org/wiki/Special:ReverseLookup/59514	Johannes Hentschel	Tom Schreyer				
+MS3/op08n03.mscx	op08n03			-5	2/4	246															3.4.2		Daniel Grote	1879	1870	.mscx	3eda03d5bce715a366da27a919868dc0		https://imslp.org/wiki/Special:ReverseLookup/59514	Johannes Hentschel	Tom Schreyer				
+MS3/op08n04.mscx	op08n04			3	3/4	138															3.4.2		Adrian Nagel	1879	1870	.mscx	010fdd2206a99ae10ce6e37c8cf90fa0		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n05.mscx	op08n05			3	3/4	137															3.4.2		Adrian Nagel	1879	1870	.mscx	c4c3d455a740deff0932bed0685955f9		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n06.mscx	op08n06			-2	6/8	114															3.4.2		Adrian Nagel	1879	1870	.mscx	51d8651841099b70b16271e55466fac0		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n07.mscx	op08n07			2	6/8	165															3.4.2		Adrian Nagel	1879	1870	.mscx	ed23f44e44f0b0dec8a05604f5bdde6d		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n08.mscx	op08n08			2	2/4	100															3.4.2		Adrian Nagel	1879	1870	.mscx	379b0499e1a00302c539025dd22c0a85		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n09.mscx	op08n09			5	2/4	97															3.4.2		Adrian Nagel	1879	1870	.mscx	4878bd2264504de359764904e7ed2493		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n10.mscx	op08n10			1	6/8	103															3.4.2		Adrian Nagel	1879	1870	.mscx	5cb542d0c943744300bc45048d83eace		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n11.mscx	op08n11			3	3/4	88															3.4.2		Adrian Nagel	1879	1870	.mscx	20c4e685289cb95c7b8628968d0c1390		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
+MS3/op08n12.mscx	op08n12			4, -4, 4	6/8	204															3.4.2		Adrian Nagel	1879	1870	.mscx	442e5189fd647d9d84651f1eb437c08d		https://imslp.org/wiki/Special:ReverseLookup/59514	Adrian Nagel	Tom Schreyer				
