@@ -6776,6 +6776,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="0.380357" y="5.65536"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -6870,7 +6871,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I6</name>
+            <name>I.I6{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -7186,7 +7187,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <Beam>
             </Beam>
