@@ -7293,6 +7293,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -7311,7 +7315,7 @@
             <Note>
               <Symbol>
                 <name>keyboardPedalPed</name>
-                <offset x="-0.63377" y="4.231"/>
+                <offset x="-0.380199" y="-9.8422"/>
                 </Symbol>
               <pitch>37</pitch>
               <tpc>9</tpc>
@@ -7322,7 +7326,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.760714" y="-6.5732"/>
             <text>secco sempre</text>
             </StaffText>
           <Beam>
@@ -7847,7 +7852,7 @@
             <Note>
               <Symbol>
                 <name>keyboardPedalPed</name>
-                <offset x="-0.864862" y="5.96419"/>
+                <offset x="-6.18986" y="-7.60187"/>
                 </Symbol>
               <pitch>37</pitch>
               <tpc>9</tpc>
@@ -9947,6 +9952,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="-0.253571" y="5.49299"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10015,7 +10021,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]\\</name>
+            <name>I|PAC]</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
