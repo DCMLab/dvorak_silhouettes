@@ -2987,7 +2987,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Db.I</name>
+            <name>Db.I{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3513,7 +3513,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3615,7 +3615,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.I</name>
+            <name>VI.I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
