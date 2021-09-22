@@ -3419,6 +3419,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%43</name>
+            <minDistance>0.137783</minDistance>
+            <offset x="-0.944943" y="9.03651"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
