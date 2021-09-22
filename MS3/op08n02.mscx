@@ -3893,7 +3893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+</name>
+            <name>bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
