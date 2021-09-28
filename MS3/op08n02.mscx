@@ -182,7 +182,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/59514</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Johannes Hentschel (2.1.1)</metaTag>
+    <metaTag name="reviewers">Johannes Hentschel (2.1.1), AN</metaTag>
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -3893,7 +3893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI</name>
+            <name>bVI+</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
