@@ -6216,7 +6216,13 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>c#.i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>c#.i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6807,7 +6813,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -6865,6 +6877,11 @@
           <KeySig>
             <accidental>-5</accidental>
             </KeySig>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.I6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -6872,6 +6889,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.I6{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -7187,7 +7205,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             </Beam>
@@ -7296,6 +7320,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -7685,7 +7710,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7816,7 +7847,13 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -8144,7 +8181,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8265,6 +8308,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8628,7 +8672,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8743,6 +8793,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9101,7 +9152,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9220,6 +9277,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9584,7 +9642,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9715,7 +9779,13 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10034,7 +10104,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I]\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I]|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -10204,6 +10280,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -10796,7 +10873,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
