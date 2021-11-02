@@ -8730,18 +8730,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              </Pedal>
-            <next>
-              <location>
-                <fractions>5/16</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8756,9 +8744,27 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7|HC]</name>
-            <minDistance>0.0540674</minDistance>
-            <offset x="-0.872255" y="9.70477"/>
+            <offset x="-0.484586" y="7.66951"/>
             </Harmony>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-2.01219" y="-5.39727"/>
+                <off2 x="3.04746" y="0"/>
+                <minDistance>0.132404</minDistance>
+                </Segment>
+              </Pedal>
+            <next>
+              <location>
+                <fractions>1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>eighth</durationType>
@@ -8815,7 +8821,7 @@
           <Spanner type="Pedal">
             <prev>
               <location>
-                <fractions>-5/16</fractions>
+                <fractions>-1/4</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -9671,13 +9677,14 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="0" y="4.56609"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -9712,7 +9719,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
+            <name>vii%43{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
