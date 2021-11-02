@@ -8786,14 +8786,14 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataBelow</subtype>
-            <placement>below</placement>
-            </Fermata>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>}</name>
             </Harmony>
+          <Fermata>
+            <subtype>fermataBelow</subtype>
+            <placement>below</placement>
+            </Fermata>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -8809,7 +8809,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
+            <name>vii%43{</name>
             <offset x="0" y="-8.93784"/>
             </Harmony>
           <Spanner type="Pedal">
@@ -9113,7 +9113,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9179,7 +9179,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi43</name>
+            <name>vi43{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
