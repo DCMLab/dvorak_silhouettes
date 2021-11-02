@@ -9688,6 +9688,7 @@
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
+            <offset x="0" y="-7.4318"/>
             <autoplace>0</autoplace>
             <placement>below</placement>
             </Fermata>
@@ -10019,7 +10020,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10085,7 +10086,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi43</name>
+            <name>vi43{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
