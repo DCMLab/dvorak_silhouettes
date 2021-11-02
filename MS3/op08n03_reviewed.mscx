@@ -8754,7 +8754,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7|HC]</name>
+            <name>V7]|HC}</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.484586" y="7.66951"/>
             </Harmony>
@@ -8804,11 +8804,6 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
             <placement>below</placement>
