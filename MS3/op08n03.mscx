@@ -14072,7 +14072,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#II.V</name>
+            <name>#II.V{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -14099,7 +14099,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14231,7 +14231,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
