@@ -10644,7 +10644,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10900,7 +10900,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11132,7 +11132,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
