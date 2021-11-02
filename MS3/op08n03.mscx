@@ -10644,7 +10644,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10831,7 +10831,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10869,7 +10869,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V</name>
+            <name>I.V{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10900,7 +10900,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
