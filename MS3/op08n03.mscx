@@ -10582,10 +10582,11 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
+            <offset x="0.0969173" y="-7.91639"/>
             <autoplace>0</autoplace>
             <placement>below</placement>
             </Fermata>
@@ -10613,7 +10614,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#V.V</name>
+            <name>#V.V{</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
