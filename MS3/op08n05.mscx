@@ -4007,7 +4007,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7</name>
-            <offset x="-1.12781" y="-6.76684"/>
+            <offset x="-0.620667" y="3.4039"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4053,7 +4053,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
-            <offset x="4.00677e-16" y="-6.76684"/>
+            <offset x="4.00677e-16" y="3.72204"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4543,7 +4543,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/vi</name>
+            <name>i.#viio6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4566,7 +4566,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vi</name>
+            <name>i</name>
+            <offset x="1.14107" y="4.3875"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -4582,7 +4583,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -4602,7 +4603,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vi\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -4622,7 +4623,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>III.V2{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
