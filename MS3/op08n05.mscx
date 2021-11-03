@@ -3638,7 +3638,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>f#.V</name>
+            <name>f#.V{</name>
             <offset x="-2.25561" y="-6.76684"/>
             </Harmony>
           <Chord>
@@ -3907,7 +3907,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -3927,7 +3927,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V{</name>
             <offset x="-0.112781" y="-6.76684"/>
             </Harmony>
           <Rest>
