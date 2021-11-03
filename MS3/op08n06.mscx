@@ -10186,7 +10186,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I[I</name>
+            <name>III.I[I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10558,7 +10558,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC}{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
