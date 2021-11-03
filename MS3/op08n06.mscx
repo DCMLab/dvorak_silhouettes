@@ -11405,7 +11405,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43</name>
+            <name>ii%43{</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -11454,6 +11454,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="-0.290752" y="6.11677"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -11497,6 +11498,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43</name>
+            <offset x="0" y="5.82601"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -11653,7 +11655,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7\\</name>
+            <name>V7|HC}{</name>
+            <offset x="0.290752" y="8.2974"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
