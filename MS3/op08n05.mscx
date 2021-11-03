@@ -4912,11 +4912,15 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/bi</name>
+            <name>i.i</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -4934,7 +4938,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/vi</name>
+            <name>ii%65</name>
             <offset x="-0.95658" y="-9.77491"/>
             </Harmony>
           <Chord>
@@ -4958,7 +4962,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vi\\</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
