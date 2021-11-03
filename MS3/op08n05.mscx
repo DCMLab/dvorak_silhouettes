@@ -5959,7 +5959,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I\\</name>
+            <name>I.I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -5979,7 +5979,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
