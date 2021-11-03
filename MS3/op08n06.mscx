@@ -9913,7 +9913,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC]}</name>
+            <name>I|PAC]</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -10140,6 +10140,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -11256,7 +11260,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PC}]</name>
+            <name>I|PC]</name>
             </Harmony>
           <Rest>
             <durationType>32nd</durationType>
@@ -11393,6 +11397,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -13789,7 +13797,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC]}{</name>
+            <name>I|IAC]</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13887,6 +13895,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -14079,7 +14091,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC]}{</name>
+            <name>I|PAC]</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14169,6 +14181,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -14555,7 +14571,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC]}</name>
+            <name>I|PAC]</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14665,6 +14681,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
