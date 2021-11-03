@@ -7606,12 +7606,12 @@
             </TimeSig>
           <StaffText>
             <placement>below</placement>
-            <offset x="-3.8323" y="4.92343"/>
+            <offset x="-9.64734" y="3.17892"/>
             <text>con</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Bb.I[I</name>
+            <name>Bb.I[I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7619,7 +7619,7 @@
             <Note>
               <Symbol>
                 <name>keyboardPedalPed</name>
-                <offset x="-0.671443" y="3.56396"/>
+                <offset x="-5.90498" y="1.67407"/>
                 </Symbol>
               <pitch>34</pitch>
               <tpc>12</tpc>
@@ -8449,7 +8449,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8505,7 +8505,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8691,7 +8691,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8756,7 +8756,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
