@@ -7889,7 +7889,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}</name>
+            <offset x="-0.126786" y="4.3875"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
