@@ -13789,7 +13789,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC</name>
+            <name>I]|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -13807,10 +13807,6 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I]</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -13891,10 +13887,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}{</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -13921,7 +13913,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I[I</name>
+            <name>I.I[I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
