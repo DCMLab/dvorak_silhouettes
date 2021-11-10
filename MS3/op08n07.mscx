@@ -7479,7 +7479,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI|DC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
