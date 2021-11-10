@@ -7850,7 +7850,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8001,7 +8001,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i]\\</name>
+            <name>i]</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -8076,6 +8076,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i}</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
