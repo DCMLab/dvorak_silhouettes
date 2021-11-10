@@ -6558,7 +6558,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>b.i{[i</name>
+            <name>b.i[i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
