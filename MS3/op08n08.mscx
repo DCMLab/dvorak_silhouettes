@@ -8800,7 +8800,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I[I</name>
+            <name>III.I[I{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9455,12 +9455,13 @@
       <Measure>
         <voice>
           <StaffText>
-            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-3.29643" y="-4.06502"/>
             <text>Con Pedale</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|EC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
