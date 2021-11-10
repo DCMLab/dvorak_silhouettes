@@ -4017,7 +4017,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.i</name>
+            <name>vi|DC}{</name>
             </Harmony>
           <StaffText>
             <offset x="-0.760714" y="-7.65276"/>
@@ -4042,6 +4042,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi.i</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
