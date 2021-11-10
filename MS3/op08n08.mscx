@@ -6558,7 +6558,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>b.i[i</name>
+            <name>b.i{[i</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6771,7 +6771,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i[i</name>
+            <name>i[i|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
