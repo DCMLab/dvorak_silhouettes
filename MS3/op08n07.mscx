@@ -4521,7 +4521,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I</name>
+            <name>I.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4661,7 +4661,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
