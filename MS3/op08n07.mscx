@@ -3733,7 +3733,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>D.I</name>
+            <name>D.I{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3873,7 +3873,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4020,7 +4020,7 @@
             <name>vi.i</name>
             </Harmony>
           <StaffText>
-            <placement>below</placement>
+            <offset x="-0.760714" y="-7.65276"/>
             <text>legato sempre</text>
             </StaffText>
           <Beam>
