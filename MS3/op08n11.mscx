@@ -7849,7 +7849,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I</name>
+            <name>I[I|IAC}{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
