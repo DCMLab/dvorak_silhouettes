@@ -4722,7 +4722,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I</name>
+            <name>I[I{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -5092,6 +5092,10 @@
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
