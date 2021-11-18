@@ -5996,7 +5996,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I}{</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -6193,7 +6193,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/ii</name>
+            <name>i/ii}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
