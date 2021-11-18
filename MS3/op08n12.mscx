@@ -8701,7 +8701,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7\\</name>
+            <name>V7|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
