@@ -9960,7 +9960,7 @@
             <accidental>-4</accidental>
             </KeySig>
           <StaffText>
-            <placement>below</placement>
+            <offset x="-6.59285" y="-7.16498"/>
             <text>legato sempre</text>
             </StaffText>
           <Chord>
@@ -9974,6 +9974,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -9985,10 +9989,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V[V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10220,7 +10220,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7]</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
