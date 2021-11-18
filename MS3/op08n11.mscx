@@ -5506,7 +5506,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I|PAC}</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Chord>
@@ -5558,7 +5558,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Chord>
@@ -6791,7 +6791,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7\\</name>
+            <name>V7|HC}</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
