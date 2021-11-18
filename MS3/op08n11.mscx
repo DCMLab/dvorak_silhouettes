@@ -3850,7 +3850,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>A.I[I</name>
+            <name>A.I[I{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -4235,6 +4235,10 @@
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -4303,7 +4307,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V</name>
+            <name>V43/V{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Spanner type="HairPin">
