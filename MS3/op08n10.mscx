@@ -8442,7 +8442,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/ii</name>
+            <name>iv/ii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
