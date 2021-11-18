@@ -8303,7 +8303,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/bVII</name>
+            <name>I/bVII}{</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
