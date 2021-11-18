@@ -5165,7 +5165,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V</name>
+            <name>V43/V{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -5506,7 +5506,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}{</name>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Chord>
