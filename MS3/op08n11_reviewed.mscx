@@ -4236,16 +4236,17 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -5112,16 +5113,17 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I+]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I+]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -7245,16 +7247,17 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I+]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I+]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -8314,7 +8317,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I]</name>
+            <name>I]}</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
@@ -8445,17 +8448,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>}</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
