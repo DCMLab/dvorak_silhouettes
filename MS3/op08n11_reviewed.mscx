@@ -3850,7 +3850,13 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>A.I[I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>A.I[I{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -4229,7 +4235,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
@@ -4303,7 +4315,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43/V{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -4648,7 +4666,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V65\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
@@ -4712,6 +4736,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I[I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -4719,6 +4748,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I[I{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -5082,7 +5112,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I+]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I+]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
@@ -5157,7 +5193,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43/V{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -5498,7 +5540,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Chord>
@@ -5550,7 +5598,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Chord>
@@ -6783,7 +6837,13 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -6818,7 +6878,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I[I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I[I{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -7180,7 +7246,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I+]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I+]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <location>
@@ -7254,7 +7326,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43/V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43/V{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -7837,7 +7915,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I[I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I[I|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
@@ -8226,9 +8310,15 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I]\\</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I]}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-2.81952"/>
             </Harmony>
           <Rest>
