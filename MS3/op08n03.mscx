@@ -11836,7 +11836,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.IV(+9)/#I</name>
+            <name>I.V2/#I</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11858,10 +11858,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/#I</name>
-            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>16th</durationType>
@@ -11911,7 +11907,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(+9)/VII</name>
+            <name>V2/VII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11934,10 +11930,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/VII</name>
-            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>16th</durationType>
@@ -11986,7 +11978,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(+9)/VI</name>
+            <name>V2/VI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12008,10 +12000,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/VI</name>
-            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>16th</durationType>
@@ -12059,7 +12047,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(+9)/V</name>
+            <name>V2/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12082,10 +12070,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/V</name>
-            </Harmony>
           <Chord>
             <BeamMode>end</BeamMode>
             <durationType>16th</durationType>
