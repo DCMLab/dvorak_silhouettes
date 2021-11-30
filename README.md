@@ -12,6 +12,6 @@
 |op08n07  |      38|   167|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)|Adrian Nagel (2.1.1)          |
 |op08n08  |      57|   100|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)|Adrian Nagel (2.1.1.)         |
 |op08n09  |      61|    97|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)|Adrian Nagel (2.1.1)          |
-|op08n10  |      58|   103|2.1.1   |Adrian Nagel                              |Adrian Nagel                  |
+|op08n10  |      58|   104|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)|Adrian Nagel (2.1.1)          |
 |op08n11  |      44|    88|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)|Adrian Nagel (2.1.1)          |
 |op08n12  |      78|   204|2.1.1   |Adrian Nagel                              |Adrian Nagel                  |
