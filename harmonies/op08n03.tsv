@@ -1,5 +1,5 @@
 mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal	chord	special	numeral	form	figbass	changes	relativeroot	cadence	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	0	2/4	2	1		Db.V43/V	Db	I		V43/V		V		43		V			Mm7	0	0	3, 0, 2, 6		2	3
+1	1	0	0	2/4	2	1		Db.V43/V{	Db	I		V43/V		V		43		V		{	Mm7	0	0	3, 0, 2, 6		2	3
 1	1	1/4	1/4	2/4	2	1		Ger6	Db	I		Ger6	Ger	vii	o	65	b3	V			Ger	0	0	-4, 0, -3, 6		6	-4
 2	2	0	0	2/4	2	1		V65/V	Db	I		V65/V		V		65		V			Mm7	0	0	6, 3, 0, 2		2	6
 2	2	1/4	1/4	2/4	2	1		V[V(6#4)	Db	I	V	V(6#4)		V			6#4				M	0	0	1, 5, 7, 4		1	1
@@ -7,8 +7,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 3	3	3/8	3/8	2/4	2	1		#viio43/ii	Db	I	V	#viio43/ii		#vii	o	43		ii			o7	0	0	1, -2, 7, 4		7	1
 4	4	1/8	1/8	2/4	2	1		IV6	Db	I	V	IV6		IV		6					M	0	0	3, 0, -1		-1	3
 4	4	3/8	3/8	2/4	2	1		viio65/V	Db	I	V	viio65/V		vii	o	65		V			o7	0	0	3, 0, -3, 6		6	3
-5	5	1/8	1/8	2/4	2	1		V7]\\	Db	I	V	V7		V		7				\\	Mm7	0	0	1, 5, 2, -1		1	1
-5	5	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
+5	5	1/8	1/8	2/4	2	1		V7]|HC}	Db	I	V	V7		V		7			HC	}	Mm7	0	0	1, 5, 2, -1		1	1
+5	5	3/8	3/8	2/4	2	1		vii%43{	Db	I		vii%43		vii	%	43				{	%7	0	0	-1, 3, 5, 2		5	-1
 6	6	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 6	6	1/8	1/8	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 6	6	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
@@ -18,8 +18,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 8	8	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 8	8	1/8	1/8	2/4	2	1		vii%7	Db	I		vii%7		vii	%	7					%7	0	0	5, 2, -1, 3		5	5
 8	8	1/4	1/4	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
-9	9	0	0	2/4	2	1		V\\	Db	I		V		V						\\	M	0	0	1, 5, 2		1	1
-9	9	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
+9	9	0	0	2/4	2	1		V|HC}	Db	I		V		V					HC	}	M	0	0	1, 5, 2		1	1
+9	9	3/8	3/8	2/4	2	1		vi43{	Db	I		vi43		vi		43				{	mm7	0	0	4, 1, 3, 0		3	4
 10	10	0	0	2/4	2	1		viio6	Db	I		viio6		vii	o	6					o	0	0	2, -1, 5		5	2
 10	10	1/8	1/8	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
 10	10	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
@@ -37,8 +37,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 14	14	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 14	14	1/8	1/8	2/4	2	1		V7(4)	Db	I		V7(4)		V		7	4				Mm7	0	0	1, 0, 2, -1		1	1
 14	14	3/16	3/16	2/4	2	1		V7	Db	I		V7		V		7					Mm7	0	0	1, 5, 2, -1		1	1
-14	14	1/4	1/4	2/4	2	1		I\\	Db	I		I		I						\\	M	0	0	0, 4, 1		0	0
-14	14	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
+14	14	1/4	1/4	2/4	2	1		I|PAC}	Db	I		I		I					PAC	}	M	0	0	0, 4, 1		0	0
+14	14	3/8	3/8	2/4	2	1		vii%43{	Db	I		vii%43		vii	%	43				{	%7	0	0	-1, 3, 5, 2		5	-1
 15	15	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 15	15	1/8	1/8	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 15	15	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
@@ -48,8 +48,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 17	17	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 17	17	1/8	1/8	2/4	2	1		vii%7	Db	I		vii%7		vii	%	7					%7	0	0	5, 2, -1, 3		5	5
 17	17	1/4	1/4	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
-18	18	0	0	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
-18	18	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
+18	18	0	0	2/4	2	1		V|HC}	Db	I		V		V					HC	}	M	0	0	1, 5, 2		1	1
+18	18	3/8	3/8	2/4	2	1		vi43{	Db	I		vi43		vi		43				{	mm7	0	0	4, 1, 3, 0		3	4
 19	19	0	0	2/4	2	1		viio6	Db	I		viio6		vii	o	6					o	0	0	2, -1, 5		5	2
 19	19	1/8	1/8	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
 19	19	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
@@ -67,64 +67,60 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 23	23	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 23	23	1/8	1/8	2/4	2	1		V7(4)	Db	I		V7(4)		V		7	4				Mm7	0	0	1, 0, 2, -1		1	1
 23	23	3/16	3/16	2/4	2	1		V7	Db	I		V7		V		7					Mm7	0	0	1, 5, 2, -1		1	1
-23	23	1/4	1/4	2/4	2	1		I\\	Db	I		I		I						\\	M	0	0	0, 4, 1		0	0
-23	23	3/8	3/8	2/4	2	1		#V.V	Db	#V		V		V							M	0	0	1, 5, 2		1	1
-24	24	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
+23	23	1/4	1/4	2/4	2	1		I|PAC}	Db	I		I		I					PAC	}	M	0	0	0, 4, 1		0	0
+23	23	3/8	3/8	2/4	2	1		#V.V{	Db	#V		V		V						{	M	0	0	1, 5, 2		1	1
+24	24	0	0	2/4	2	1		I|IAC}{	Db	#V		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 24	24	1/8	1/8	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 24	24	3/16	3/16	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-24	24	1/4	1/4	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
+24	24	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 24	24	3/8	3/8	2/4	2	1		V6	Db	#V		V6		V		6					M	0	0	5, 2, 1		1	5
 25	25	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
 25	25	1/8	1/8	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-25	25	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
-25	25	3/8	3/8	2/4	2	1		I.V	Db	I		V		V							M	0	0	1, 5, 2		1	1
-26	26	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
+25	25	1/4	1/4	2/4	2	1		I6}	Db	#V		I6		I		6				}	M	0	0	4, 1, 0		0	4
+25	25	3/8	3/8	2/4	2	1		I.V{	Db	I		V		V						{	M	0	0	1, 5, 2		1	1
+26	26	0	0	2/4	2	1		I|IAC}{	Db	I		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 26	26	1/8	1/8	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 26	26	3/16	3/16	2/4	2	1		V2	Db	I		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 26	26	1/4	1/4	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 26	26	3/8	3/8	2/4	2	1		V6	Db	I		V6		V		6					M	0	0	5, 2, 1		1	5
 27	27	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 27	27	1/8	1/8	2/4	2	1		V2	Db	I		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-27	27	1/4	1/4	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
-27	27	3/8	3/8	2/4	2	1		#V.V	Db	#V		V		V							M	0	0	1, 5, 2		1	1
-28	28	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
+27	27	1/4	1/4	2/4	2	1		I6}	Db	I		I6		I		6				}	M	0	0	4, 1, 0		0	4
+27	27	3/8	3/8	2/4	2	1		#V.V{	Db	#V		V		V						{	M	0	0	1, 5, 2		1	1
+28	28	0	0	2/4	2	1		I|IAC}{	Db	#V		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 28	28	1/8	1/8	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 28	28	3/16	3/16	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 28	28	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 28	28	3/8	3/8	2/4	2	1		V6	Db	#V		V6		V		6					M	0	0	5, 2, 1		1	5
 29	29	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
 29	29	1/8	1/8	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-29	29	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
-29	29	3/8	3/8	2/4	2	1		#II.V	Db	#II		V		V							M	0	0	1, 5, 2		1	1
-30	30	0	0	2/4	2	1		I	Db	#II		I		I							M	0	0	0, 4, 1		0	0
+29	29	1/4	1/4	2/4	2	1		I6}	Db	#V		I6		I		6				}	M	0	0	4, 1, 0		0	4
+29	29	3/8	3/8	2/4	2	1		#II.V{	Db	#II		V		V						{	M	0	0	1, 5, 2		1	1
+30	30	0	0	2/4	2	1		I|IAC}{	Db	#II		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 30	30	1/8	1/8	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 30	30	3/16	3/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 30	30	1/4	1/4	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 30	30	3/8	3/8	2/4	2	1		V	Db	#II		V		V							M	0	0	1, 5, 2		1	1
-31	31	0	0	2/4	2	1		I	Db	#II		I		I							M	0	0	0, 4, 1		0	0
+31	31	0	0	2/4	2	1		I|IAC}{	Db	#II		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 31	31	1/8	1/8	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 31	31	3/16	3/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 31	31	1/4	1/4	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 31	31	3/8	3/8	2/4	2	1		V	Db	#II		V		V							M	0	0	1, 5, 2		1	1
-32	32	0	0	2/4	2	1		I	Db	#II		I		I							M	0	0	0, 4, 1		0	0
+32	32	0	0	2/4	2	1		I|IAC}{	Db	#II		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 32	32	1/8	1/8	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 32	32	3/16	3/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 32	32	1/4	1/4	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 32	32	7/16	7/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 33	33	0	0	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
-33	33	1/8	1/8	2/4	2	1		I.IV(+9)/#I	Db	I		IV(+9)/#I		IV			+9	#I			M	0	0	6, 10, 7	8	6	6
-33	33	3/16	3/16	2/4	2	1		V/#I	Db	I		V/#I		V				#I			M	0	0	8, 12, 9		8	8
+33	33	1/8	1/8	2/4	2	1		I.V2/#I	Db	I		V2/#I		V		2		#I			Mm7	0	0	6, 8, 12, 9		8	6
 33	33	1/4	1/4	2/4	2	1		I6/#I	Db	I		I6/#I		I		6		#I			M	0	0	11, 8, 7		7	11
-33	33	3/8	3/8	2/4	2	1		IV(+9)/VII	Db	I		IV(+9)/VII		IV			+9	VII			M	0	0	4, 8, 5	6	4	4
-33	33	7/16	7/16	2/4	2	1		V/VII	Db	I		V/VII		V				VII			M	0	0	6, 10, 7		6	6
+33	33	3/8	3/8	2/4	2	1		V2/VII	Db	I		V2/VII		V		2		VII			Mm7	0	0	4, 6, 10, 7		6	4
 34	34	0	0	2/4	2	1		I6/VII	Db	I		I6/VII		I		6		VII			M	0	0	9, 6, 5		5	9
-34	34	1/8	1/8	2/4	2	1		IV(+9)/VI	Db	I		IV(+9)/VI		IV			+9	VI			M	0	0	2, 6, 3	4	2	2
-34	34	3/16	3/16	2/4	2	1		V/VI	Db	I		V/VI		V				VI			M	0	0	4, 8, 5		4	4
+34	34	1/8	1/8	2/4	2	1		V2/VI	Db	I		V2/VI		V		2		VI			Mm7	0	0	2, 4, 8, 5		4	2
 34	34	1/4	1/4	2/4	2	1		I6/VI	Db	I		I6/VI		I		6		VI			M	0	0	7, 4, 3		3	7
-34	34	3/8	3/8	2/4	2	1		IV(+9)/V	Db	I		IV(+9)/V		IV			+9	V			M	0	0	0, 4, 1	2	0	0
-34	34	7/16	7/16	2/4	2	1		V/V	Db	I		V/V		V				V			M	0	0	2, 6, 3		2	2
-35	35	0	0	2/4	2	1		V65\\	Db	I		V65		V		65				\\	Mm7	0	0	5, 2, -1, 1		1	5
-36	36	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
+34	34	3/8	3/8	2/4	2	1		V2/V	Db	I		V2/V		V		2		V			Mm7	0	0	0, 2, 6, 3		2	0
+35	35	0	0	2/4	2	1		V65|HC}	Db	I		V65		V		65			HC	}	Mm7	0	0	5, 2, -1, 1		1	5
+36	36	3/8	3/8	2/4	2	1		vii%43{	Db	I		vii%43		vii	%	43				{	%7	0	0	-1, 3, 5, 2		5	-1
 37	37	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 37	37	1/8	1/8	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 37	37	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
@@ -134,8 +130,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 39	39	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 39	39	1/8	1/8	2/4	2	1		vii%7	Db	I		vii%7		vii	%	7					%7	0	0	5, 2, -1, 3		5	5
 39	39	1/4	1/4	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
-40	40	0	0	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
-40	40	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
+40	40	0	0	2/4	2	1		V|HC}	Db	I		V		V					HC	}	M	0	0	1, 5, 2		1	1
+40	40	3/8	3/8	2/4	2	1		vi43{	Db	I		vi43		vi		43				{	mm7	0	0	4, 1, 3, 0		3	4
 41	41	0	0	2/4	2	1		viio6	Db	I		viio6		vii	o	6					o	0	0	2, -1, 5		5	2
 41	41	1/8	1/8	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
 41	41	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
@@ -150,66 +146,62 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 44	44	1/8	1/8	2/4	2	1		V65/V	Db	I		V65/V		V		65		V			Mm7	0	0	6, 3, 0, 2		2	6
 44	44	1/4	1/4	2/4	2	1		V(64)	Db	I		V(64)		V			64				M	0	0	1, 0, 4		1	1
 44	44	3/8	3/8	2/4	2	1		V7	Db	I		V7		V		7					Mm7	0	0	1, 5, 2, -1		1	1
-45	45	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
+45	45	0	0	2/4	2	1		I|PAC	Db	I		I		I					PAC		M	0	0	0, 4, 1		0	0
 45	45	1/8	1/8	2/4	2	1		I(6)	Db	I		I(6)		I			6				M	0	0	0, 4, 3		0	0
-45	45	1/4	1/4	2/4	2	1		I\\	Db	I		I		I						\\	M	0	0	0, 4, 1		0	0
-45	45	3/8	3/8	2/4	2	1		#V.V	Db	#V		V		V							M	0	0	1, 5, 2		1	1
-46	46	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
+45	45	1/4	1/4	2/4	2	1		I}	Db	I		I		I						}	M	0	0	0, 4, 1		0	0
+45	45	3/8	3/8	2/4	2	1		#V.V{	Db	#V		V		V						{	M	0	0	1, 5, 2		1	1
+46	46	0	0	2/4	2	1		I|IAC}{	Db	#V		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 46	46	1/8	1/8	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 46	46	3/16	3/16	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 46	46	1/4	1/4	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
 46	46	3/8	3/8	2/4	2	1		V6	Db	#V		V6		V		6					M	0	0	5, 2, 1		1	5
 47	47	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
 47	47	1/8	1/8	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-47	47	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
-47	47	3/8	3/8	2/4	2	1		I.V	Db	I		V		V							M	0	0	1, 5, 2		1	1
-48	48	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
+47	47	1/4	1/4	2/4	2	1		I6}	Db	#V		I6		I		6				}	M	0	0	4, 1, 0		0	4
+47	47	3/8	3/8	2/4	2	1		I.V{	Db	I		V		V						{	M	0	0	1, 5, 2		1	1
+48	48	0	0	2/4	2	1		I|IAC}{	Db	I		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 48	48	1/8	1/8	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 48	48	3/16	3/16	2/4	2	1		V2	Db	I		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 48	48	1/4	1/4	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 48	48	3/8	3/8	2/4	2	1		V6	Db	I		V6		V		6					M	0	0	5, 2, 1		1	5
 49	49	0	0	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 49	49	1/8	1/8	2/4	2	1		V2	Db	I		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-49	49	1/4	1/4	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
-49	49	3/8	3/8	2/4	2	1		#V.V	Db	#V		V		V							M	0	0	1, 5, 2		1	1
-50	50	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
+49	49	1/4	1/4	2/4	2	1		I6}	Db	I		I6		I		6				}	M	0	0	4, 1, 0		0	4
+49	49	3/8	3/8	2/4	2	1		#V.V{	Db	#V		V		V						{	M	0	0	1, 5, 2		1	1
+50	50	0	0	2/4	2	1		I|IAC}{	Db	#V		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 50	50	1/8	1/8	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 50	50	3/16	3/16	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 50	50	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
 50	50	3/8	3/8	2/4	2	1		V6	Db	#V		V6		V		6					M	0	0	5, 2, 1		1	5
 51	51	0	0	2/4	2	1		I	Db	#V		I		I							M	0	0	0, 4, 1		0	0
 51	51	1/8	1/8	2/4	2	1		V2	Db	#V		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
-51	51	1/4	1/4	2/4	2	1		I6	Db	#V		I6		I		6					M	0	0	4, 1, 0		0	4
-51	51	3/8	3/8	2/4	2	1		#II.V	Db	#II		V		V							M	0	0	1, 5, 2		1	1
-52	52	0	0	2/4	2	1		I	Db	#II		I		I							M	0	0	0, 4, 1		0	0
+51	51	1/4	1/4	2/4	2	1		I6}	Db	#V		I6		I		6				}	M	0	0	4, 1, 0		0	4
+51	51	3/8	3/8	2/4	2	1		#II.V{	Db	#II		V		V						{	M	0	0	1, 5, 2		1	1
+52	52	0	0	2/4	2	1		I|IAC}{	Db	#II		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 52	52	1/8	1/8	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 52	52	3/16	3/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 52	52	1/4	1/4	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 52	52	3/8	3/8	2/4	2	1		V	Db	#II		V		V							M	0	0	1, 5, 2		1	1
-53	53	0	0	2/4	2	1		I	Db	#II		I		I							M	0	0	0, 4, 1		0	0
+53	53	0	0	2/4	2	1		I|IAC}{	Db	#II		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 53	53	1/8	1/8	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 53	53	3/16	3/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 53	53	1/4	1/4	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 53	53	3/8	3/8	2/4	2	1		V	Db	#II		V		V							M	0	0	1, 5, 2		1	1
-54	54	0	0	2/4	2	1		I	Db	#II		I		I							M	0	0	0, 4, 1		0	0
+54	54	0	0	2/4	2	1		I|IAC}{	Db	#II		I		I					IAC	}{	M	0	0	0, 4, 1		0	0
 54	54	1/8	1/8	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 54	54	3/16	3/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 54	54	1/4	1/4	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
 54	54	7/16	7/16	2/4	2	1		V2	Db	#II		V2		V		2					Mm7	0	0	-1, 1, 5, 2		1	-1
 55	55	0	0	2/4	2	1		I6	Db	#II		I6		I		6					M	0	0	4, 1, 0		0	4
-55	55	1/8	1/8	2/4	2	1		I.IV(+9)/#I	Db	I		IV(+9)/#I		IV			+9	#I			M	0	0	6, 10, 7	8	6	6
-55	55	3/16	3/16	2/4	2	1		V/#I	Db	I		V/#I		V				#I			M	0	0	8, 12, 9		8	8
+55	55	1/8	1/8	2/4	2	1		I.V2/#I	Db	I		V2/#I		V		2		#I			Mm7	0	0	6, 8, 12, 9		8	6
 55	55	1/4	1/4	2/4	2	1		I6/#I	Db	I		I6/#I		I		6		#I			M	0	0	11, 8, 7		7	11
-55	55	3/8	3/8	2/4	2	1		IV(+9)/VII	Db	I		IV(+9)/VII		IV			+9	VII			M	0	0	4, 8, 5	6	4	4
-55	55	7/16	7/16	2/4	2	1		V/VII	Db	I		V/VII		V				VII			M	0	0	6, 10, 7		6	6
+55	55	3/8	3/8	2/4	2	1		V2/VII	Db	I		V2/VII		V		2		VII			Mm7	0	0	4, 6, 10, 7		6	4
 56	56	0	0	2/4	2	1		I6/VII	Db	I		I6/VII		I		6		VII			M	0	0	9, 6, 5		5	9
-56	56	1/8	1/8	2/4	2	1		IV(+9)/VI	Db	I		IV(+9)/VI		IV			+9	VI			M	0	0	2, 6, 3	4	2	2
-56	56	3/16	3/16	2/4	2	1		V/VI	Db	I		V/VI		V				VI			M	0	0	4, 8, 5		4	4
+56	56	1/8	1/8	2/4	2	1		V2/VI	Db	I		V2/VI		V		2		VI			Mm7	0	0	2, 4, 8, 5		4	2
 56	56	1/4	1/4	2/4	2	1		I6/VI	Db	I		I6/VI		I		6		VI			M	0	0	7, 4, 3		3	7
-56	56	3/8	3/8	2/4	2	1		IV(+9)/V	Db	I		IV(+9)/V		IV			+9	V			M	0	0	0, 4, 1	2	0	0
-56	56	7/16	7/16	2/4	2	1		V/V	Db	I		V/V		V				V			M	0	0	2, 6, 3		2	2
-57	57	0	0	2/4	2	1		V65\\	Db	I		V65		V		65				\\	Mm7	0	0	5, 2, -1, 1		1	5
-58	58	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
+56	56	3/8	3/8	2/4	2	1		V2/V	Db	I		V2/V		V		2		V			Mm7	0	0	0, 2, 6, 3		2	0
+57	57	0	0	2/4	2	1		V65|HC}	Db	I		V65		V		65			HC	}	Mm7	0	0	5, 2, -1, 1		1	5
+58	58	3/8	3/8	2/4	2	1		vii%43{	Db	I		vii%43		vii	%	43				{	%7	0	0	-1, 3, 5, 2		5	-1
 59	59	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 59	59	1/8	1/8	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
 59	59	3/8	3/8	2/4	2	1		vii%43	Db	I		vii%43		vii	%	43					%7	0	0	-1, 3, 5, 2		5	-1
@@ -219,8 +211,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 61	61	0	0	2/4	2	1		I6	Db	I		I6		I		6					M	0	0	4, 1, 0		0	4
 61	61	1/8	1/8	2/4	2	1		vii%7	Db	I		vii%7		vii	%	7					%7	0	0	5, 2, -1, 3		5	5
 61	61	1/4	1/4	2/4	2	1		I	Db	I		I		I							M	0	0	0, 4, 1		0	0
-62	62	0	0	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
-62	62	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
+62	62	0	0	2/4	2	1		V|HC}	Db	I		V		V					HC	}	M	0	0	1, 5, 2		1	1
+62	62	3/8	3/8	2/4	2	1		vi43{	Db	I		vi43		vi		43				{	mm7	0	0	4, 1, 3, 0		3	4
 63	63	0	0	2/4	2	1		viio6	Db	I		viio6		vii	o	6					o	0	0	2, -1, 5		5	2
 63	63	1/8	1/8	2/4	2	1		V	Db	I		V		V							M	0	0	1, 5, 2		1	1
 63	63	3/8	3/8	2/4	2	1		vi43	Db	I		vi43		vi		43					mm7	0	0	4, 1, 3, 0		3	4
@@ -244,4 +236,4 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	volta	label	globalkey	localkey	pedal
 70	70	1/8	1/8	2/4	2	1		IV6	Db	I	V	IV6		IV		6					M	0	0	3, 0, -1		-1	3
 70	70	3/8	3/8	2/4	2	1		viio65/V	Db	I	V	viio65/V		vii	o	65		V			o7	0	0	3, 0, -3, 6		6	3
 71	71	1/8	1/8	2/4	2	1		V7]	Db	I	V	V7		V		7					Mm7	0	0	1, 5, 2, -1		1	1
-72	72	0	0	2/4	2	1		I\\	Db	I		I		I						\\	M	0	0	0, 4, 1		0	0
+72	72	0	0	2/4	2	1		I|PAC}	Db	I		I		I					PAC	}	M	0	0	0, 4, 1		0	0
