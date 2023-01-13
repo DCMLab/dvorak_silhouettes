@@ -1,7 +1,7 @@
-Warnings encountered during the last execution of ms3 review (v1.0.4)
+Warnings encountered during the last execution of ms3 review (v1.1.1)
 =====================================================================
 
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.dvorak_silhouettes.op08n06 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4940) check_phrase_annotations():
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.dvorak_silhouettes.op08n06 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
 	            1a         {             8a         }
@@ -21,7 +21,7 @@ DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.dvorak_silhouettes.op08n06 -- /
 	           51a        }{            55a         }
 	           54a         {            57a         }
 	           56a         {            NaN       NaN
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 11: ') ms3.Parse.dvorak_silhouettes.op08n10 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 3990) features2tpcs():
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 11: ') ms3.Parse.dvorak_silhouettes.op08n10 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4066) features2tpcs():
 	MC 11: #vii in major context corrected to vii.
 Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
                                      mc  mn mc_onset       label         chord_tones added_tones  n_colored  n_untouched  count_ratio
