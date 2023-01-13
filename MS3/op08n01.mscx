@@ -170,15 +170,18 @@
     <metaTag name="annotators">Daniel Grote (2.1.1), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1879</metaTag>
-    <metaTag name="composed_start">1870</metaTag>
-    <metaTag name="composer">Antonín Dvořák</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_start">1875</metaTag>
+    <metaTag name="composer">Antonín Dvořák </metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-05-26</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Silhouettes%2C_Op.8_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
     <metaTag name="movementTitle">Allegro feroce</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/80bb714e-a36a-4259-b993-6efa5f2f95d6</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/59514</metaTag>
     <metaTag name="platform">Microsoft Windows</metaTag>
@@ -187,6 +190,7 @@
     <metaTag name="score integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/174794325/</metaTag>
     <metaTag name="workNumber">op. 8</metaTag>
     <metaTag name="workTitle">Silhouettes</metaTag>
     <Part>
@@ -225,15 +229,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <size>24</size>
-          <offset x="1.5875" y="7.9375"/>
-          <text>Op8.no1</text>
+          <text>Silhouettes, op. 8</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Allegro feroce</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <size>18</size>
-          <offset x="-0.79375" y="-1.85208"/>
-          <text>Antonin Dvorak</text>
+          <text>Antonín Dvořák </text>
           </Text>
         </VBox>
       <Measure len="1/8">
