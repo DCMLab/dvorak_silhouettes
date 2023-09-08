@@ -1,0 +1,45 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.dvorak_silhouettes.op08n08
+	No metronome mark found in the first measure nor anywhere else in the score.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '0', 'i[i') ms3.Parse.dvorak_silhouettes.op08n08
+	The label 'i[i' in m. 9, onset 0 (MC 9, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of b.III, it expresses the scale degrees
+	('1', 'b3', '5') [('D', 'F', 'A')].
+	The corresponding score segment has 2 within-label and 8 out-of-label note onsets,
+	a ratio of 0.8 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 10, '0', 'i]') ms3.Parse.dvorak_silhouettes.op08n08
+	The label 'i]' in m. 10, onset 0 (MC 10, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of b.III, it expresses the scale degrees
+	('1', 'b3', '5') [('D', 'F', 'A')].
+	The corresponding score segment has 5 within-label and 13 out-of-label note onsets,
+	a ratio of 0.7222222222222222 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '0', 'V') ms3.Parse.dvorak_silhouettes.op08n08
+	The label 'V' in m. 11, onset 0 (MC 11, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of b.III, it expresses the scale degrees
+	('5', '7', '2') [('A', 'C#', 'E')].
+	The corresponding score segment has 1 within-label and 6 out-of-label note onsets,
+	a ratio of 0.8571428571428571 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 11, '1/4', 'V7') ms3.Parse.dvorak_silhouettes.op08n08
+	The label 'V7' in m. 11, onset 1/4 (MC 11, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of b.III, it expresses the scale degrees
+	('5', '7', '2', '4') [('A', 'C#', 'E', 'G')].
+	The corresponding score segment has 3 within-label and 6 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 12, '0', 'i[i|PAC}{') ms3.Parse.dvorak_silhouettes.op08n08
+	The label 'i[i|PAC}{' in m. 12, onset 0 (MC 12, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of b.III, it expresses the scale degrees
+	('1', 'b3', '5') [('D', 'F', 'A')].
+	The corresponding score segment has 3 within-label and 14 out-of-label note onsets,
+	a ratio of 0.8235294117647058 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
