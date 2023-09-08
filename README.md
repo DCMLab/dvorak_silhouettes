@@ -192,7 +192,7 @@ The file names listed in the [Overview](#overview) below refer to the 12 pieces 
 [opus number 8](https://en.wikipedia.org/wiki/List_of_compositions_by_Anton%C3%ADn_Dvo%C5%99%C3%A1k).
 
 
-# Overview
+## Overview
 |file_name|measures|labels|standard|                annotators                |          reviewers           |
 |---------|-------:|-----:|--------|------------------------------------------|------------------------------|
 |op08n01  |      52|    80|2.3.0   |Daniel Grote (2.1.1), Hanné Becker (2.3.0)|Johannes Hentschel (2.1.1), AN|
@@ -209,4 +209,4 @@ The file names listed in the [Overview](#overview) below refer to the 12 pieces 
 |op08n12  |      78|   210|2.3.0   |Adrian Nagel (2.1.1), Hanné Becker (2.3.0)|Adrian Nagel (2.1.1)          |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
