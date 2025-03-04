@@ -1,7 +1,8 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/dvorak_silhouettes?display_name=tag)
 [![DOI](https://zenodo.org/badge/383817520.svg)](https://zenodo.org/badge/latestdoi/383817520)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/dvorak_silhouettes)
-![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf) 
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
+
 
 This is a README file for a data repository originating from the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora)
 and serves as welcome page for both 
@@ -183,13 +184,15 @@ with the ones currently present in the harmonies TSV files and reflect the compa
 
 ## Questions, Suggestions, Corrections, Bug Reports
 
-For questions, remarks etc., please create an issue and feel free to fork and submit pull requests.
+Please [create an issue](https://github.com/DCMLab/dvorak_silhouettes/issues) and/or feel free to fork and submit pull requests.
 
 ## License
 
-Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-## Naming convention
+![cc-by-nc-sa-image](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+
+## File naming convention
 
 The file names listed in the [Overview](#overview) below refer to the 12 pieces contained in
 [opus number 8](https://en.wikipedia.org/wiki/List_of_compositions_by_Anton%C3%ADn_Dvo%C5%99%C3%A1k).
