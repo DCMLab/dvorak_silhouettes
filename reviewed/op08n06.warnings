@@ -3,26 +3,6 @@ Warnings encountered during the last execution of ms3 review
 
 FIRST_BAR_MISSING_TEMPO_MARK_WARNING (29,) ms3.Parse.dvorak_silhouettes.op08n06
 	No metronome mark found in the first measure nor anywhere else in the score.
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.dvorak_silhouettes.op08n06
-	Phrase beginning and endings don't match:
-	mn_playthrough phraseend mn_playthrough phraseend
-	            1a         {             8a         }
-	            8a         {            10a         }
-	           10a         {            12a        }{
-	           12a        }{            14a        }{
-	           14a        }{            16a        }{
-	           16a        }{            18a         }
-	           22a         {            25a        }{
-	           25a        }{            31a         }
-	           32a         {            37a        }{
-	           37a        }{            43a        }{
-	           40a         {            47a        }{
-	           43a        }{            49a        }{
-	           47a        }{            51a        }{
-	           49a        }{            53a         }
-	           51a        }{            55a         }
-	           54a         {            57a         }
-	           56a         {            NaN       NaN
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 32, '0', 'ii%43{') ms3.Parse.dvorak_silhouettes.op08n06
 	The label 'ii%43{' in m. 32, onset 0 (MC 32, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of Bb.III, it expresses the scale degrees

@@ -171,6 +171,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Adrian Nagel (2.1.1), Hanné Becker (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1879</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1875</metaTag>
@@ -11749,6 +11750,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7|HC}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.290752" y="8.2974"/>
             </Harmony>
           <location>
