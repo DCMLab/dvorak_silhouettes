@@ -144,11 +144,11 @@
         "type": "string"
       },
       {
-        "name": "decrescendo_hairpin",
+        "name": "crescendo_hairpin",
         "type": "string"
       },
       {
-        "name": "crescendo_hairpin",
+        "name": "decrescendo_hairpin",
         "type": "string"
       },
       {
@@ -163,8 +163,8 @@
       }
     ],
     "facet": "chords",
-    "identifier": "2ai3jf_VyNgPeg",
-    "filepath": "chords/2ai3jf_VyNgPeg.schema.yaml",
+    "identifier": "eWUcqjKk-v5CVA",
+    "filepath": "chords/eWUcqjKk-v5CVA.schema.yaml",
     "used_in": "op08n03"
   },
   "creator": {
@@ -179,6 +179,6 @@
     },
     "softwareVersion": "2.5.4"
   },
-  "git_revision": "0e948a4969c1bbf0be02f4a7dbc31f21a36ace9b",
-  "git_tag": "v2.1"
+  "git_revision": "28db0e6cb96dbe7025f8bdbd627b165665554d29",
+  "git_tag": "v2.1-2-g28db0e6"
 }
