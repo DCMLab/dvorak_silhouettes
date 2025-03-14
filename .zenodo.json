@@ -13,6 +13,16 @@
             "orcid": "0000-0002-2105-525X",
             "type": "DataCollector",
             "name": "Hanné Becker"
+        },
+        {
+            "orcid": "0000-0002-2105-525X",
+            "type": "DataCurator",
+            "name": "Hanné Becker"
+        },
+        {
+            "orcid": "0000-0002-1986-9545",
+            "type": "DataCurator",
+            "name": "Johannes Hentschel"
         }
     ],
     "title": "Antonín Dvořák – Silhouettes (A corpus of annotated scores)",
